@@ -1,4 +1,3 @@
-[README (7).md](https://github.com/user-attachments/files/27776374/README.7.md)
 # Pavia'dan Notlar 📓
 
 > Università degli Studi di Pavia'da işlenen yüksek lisans seviyesindeki makine öğrenmesi ve veri bilimi konularından üretilmiş küçük projelerin koleksiyonu.
