@@ -1,0 +1,12 @@
+{
+  "w": [-0.9975, 3.9953, -0.0644, -0.7110, -0.3002, 0.0127],
+  "b": [1.2142],
+  "feature_names": [
+    "Ticket Class",
+    "Sex",
+    "Age",
+    "Siblings/Spouse",
+    "Parents/Children",
+    "Fare"
+  ]
+}
