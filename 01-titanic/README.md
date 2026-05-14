@@ -1,9 +1,8 @@
-[README (6).md](https://github.com/user-attachments/files/27776343/README.6.md)
 # 🚢 Pavia'dan Notlar #01 — Titanic'te kim hayatta kalır?
 
 1912 Titanic kazasının gerçek yolcu verisi üzerinde **logistic regression** ile bir hayatta kalma tahmin modeli.
 
-**🚀 Canlı demo:** [huggingface.co/spaces/KULLANICI_ADIN/titanic-survival](https://huggingface.co/spaces/KULLANICI_ADIN/titanic-survival)
+**🚀 Canlı demo:**  https://huggingface.co/spaces/HakanGurhan/titanic-survival
 
 ![Feature importance](feature_importance.png)
 
